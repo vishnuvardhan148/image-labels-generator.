@@ -53,9 +53,6 @@ Here are some screenshots of the processed images after running the Python scrip
 
 ![Example Image 3](labeled_pexels-ana-benet-8243365.jpg)
 
-### Output generated in command prompt interface.
-
-![Example Image 4](Screenshot (169).png)
 
 
 
