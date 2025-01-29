@@ -12,6 +12,8 @@ This Python project uses **Amazon Rekognition** and **Pillow** to detect labels 
 3. **Pillow**:  
    Used for manipulating images by drawing bounding boxes and labels on them.
 
+   ![Example Image 5](a1.png)
+
 ## **Deployment Instructions**
 Follow these steps to deploy the project on your AWS account:
 
