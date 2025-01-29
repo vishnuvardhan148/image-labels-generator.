@@ -45,7 +45,7 @@ Here are some screenshots of the processed images after running the Python scrip
 
 ### Output in CLI
 
-![Example Image 4](Screenshot (169).png)
+![Example Image 4](output_in_CLI.png)
 
 ### Example 1: Detected Labels on Image
 
