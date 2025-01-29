@@ -43,6 +43,10 @@ Follow these steps to deploy the project on your AWS account:
 ## **Screenshots**
 Here are some screenshots of the processed images after running the Python script:
 
+### Output in CLI
+
+![Example Image 4](Screenshot (169).png)
+
 ### Example 1: Detected Labels on Image
 
 ![Example Image 1](labeled_dog.jpg)
